@@ -9,5 +9,5 @@
 
 
 ##  References
-1.  **Machine Learning with a Heart** - Driven Data
+1.  **Machine Learning with a Heart** - Driven Data  
 	https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/
