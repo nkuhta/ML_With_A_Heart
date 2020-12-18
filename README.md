@@ -1,7 +1,8 @@
-# Machine Learning with a Heart**
+# Machine Learning with a Heart
 
 **[Exploratory Data Analysis](https://github.com/nkuhta/ML_With_A_Heart/blob/main/Warm_Up_EDA.ipynb)**  
-&ensp; Using Visualization to study Resting Blood Pressure, Fasting Blood Sugar, and Serum to find patterns of heart disease present. 
+&ensp; Use visualization to study resting blood pressure, fasting blood sugar, and serum levels to find patterns of heart disease 
+%ensp; present. 
 
 
 
